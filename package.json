@@ -1,0 +1,31 @@
+{
+  "name": "react-native-calendar-modal-picker",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "description": "Reusable animated calendar modal with date range selection for React Native.",
+  "keywords": [
+    "react-native",
+    "calendar",
+    "modal",
+    "date-range",
+    "date-picker",
+    "typescript",
+    "react-native-calendars"
+  ],
+  "author": "Ashok Vishwakarma",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/react-native-calendar-modal"
+  },
+  "peerDependencies": {
+    "react": ">=17",
+    "react-native": ">=0.64",
+    "react-native-calendars": "^1.1292.0",
+    "moment": "^2.29.4"
+  },
+  "scripts": {
+    "build": "tsc"
+  }
+}
